@@ -1,6 +1,7 @@
 ### Hi there 👋 , I'm Sourav Goyal
+<p>
 <img align="Left" src="https://media.giphy.com/media/wn6FJK3c5AQNePKXy4/giphy-downsized-large.gif" alt="Meowww">
-
+</p>
 - ❤️ Love to play Frontend and Automation realted stuffs.
 - 🥲 Slow learner , but give my best.
 - 😍 Love Cats.
