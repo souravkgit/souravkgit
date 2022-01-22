@@ -1,5 +1,5 @@
 ### Hi there 👋 , I'm Sourav Goyal
-![Cat](https://telegra.ph/file/7ef330be4397a7cf9d96b.mp4)
+![Cat](https://media.giphy.com/media/wn6FJK3c5AQNePKXy4/giphy-downsized-large.gif)
 <!-- <img src="https://media.giphy.com/media/wn6FJK3c5AQNePKXy4/giphy-downsized-large.gif" width="100" height="100" /> -->
 - ❤️ Love to play Frontend and Automation realted stuffs.
 - 🥲 Slow learner , but give my best.
