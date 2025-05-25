@@ -1,5 +1,5 @@
 # 💫 About Me:
-❤️ Love to play Frontend and Automation realted stuffs.<br>🥲 Slow learner , but give my best.<br>😍 Love Cats.<br>🙃 Wanna explore world some day.<br>✨ Wanna learn everything about Crypto (i already know something though).<br>🙏 Love to help others.<br>🚶 Currently learning Web Development.
+❤️ Love to play with python.<br>🥲 Slow learner , but give my best.<br>😍 Love Cats.<br>🙃 Wanna explore world some day.<br>✨ Crypto Geek.<br>🙏 Love to help others.
 
 
 ## 🌐 Socials:
